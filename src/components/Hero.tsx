@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowDown, Download, Mail, FolderOpen } from "lucide-react";
-import profileImg from "@/assets/my photo.jpeg";
+import profileImg from "@/assets/vishwas-photo-g.jpeg";
 
 const Hero = () => (
   <section
